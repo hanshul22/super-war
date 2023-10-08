@@ -1,0 +1,29 @@
+
+.main,.mainleft,.mainright,.mainscore{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+.flex{
+    border: 1px solid brown;
+
+}
+
+.mainscore{
+    margin: 50px 70px 0 100px;
+    
+}
+
+#b2{
+    margin-left: 20px;
+}
+
+.mainleft,.mainright {
+margin-left:20px ;
+}
+
+#b3{
+    margin-right: 20px;
+}
